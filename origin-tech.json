@@ -1,0 +1,16 @@
+[
+    {
+        "url": "https://www.bootbarn.com",
+        "categories": [
+            {
+                "category": "A/B Testing",
+                "apps": [
+                    {
+                        "name": "Optimizely",
+                        "url": "https://www.optimizely.com"
+                    }
+                ]
+            }
+        ]
+    }
+]
